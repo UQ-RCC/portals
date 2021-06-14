@@ -13,11 +13,11 @@ sites:
     maxResponseTime: 5000
     assignees:
       - hoangnguyen177
-  - name: IPP pref
-    url: $IPP_PREF_URL
-    maxResponseTime: 5000
-    assignees:
-      - hoangnguyen177
+  # - name: IPP pref
+  #   url: $IPP_PREF_URL
+  #   maxResponseTime: 5000
+  #   assignees:
+  #     - hoangnguyen177
   - name: Pitchi
     url: $PITSCHI_URL
     maxResponseTime: 5000
