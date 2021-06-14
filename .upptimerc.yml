@@ -23,8 +23,8 @@ sites:
     url: ${PITSCIH_XAPI_URL}/user
     maxResponseTime: 5000
     headers:
-      - "Authorization: Bearer $PITSCIH_XAPI_BEARER_TOKEN"
-      - "Content-Type: application/json"
+      - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
+      - "accept: application/json"
     assignees:
       - hoangnguyen177
 
