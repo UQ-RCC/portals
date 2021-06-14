@@ -36,7 +36,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/29138696?s=400&u=b56f5d2be37ac991cd6703fc7e9aad0ac4d9cba6&v=4
   name: Upptime for ipp and pitschi
   introTitle: "**Upptime** for RCC portals."
-  introMessage: 
+  introMessage: "" 
+  theme: dark
   navbar:
     - title: Status
       href: /
