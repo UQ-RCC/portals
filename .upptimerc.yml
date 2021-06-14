@@ -20,7 +20,7 @@ sites:
       - hoangnguyen177
   - name: Pitschi XAPI user
     method: GET
-    url: ${PITSCIH_XAPI_URL}/user
+    url: ${PITSCIH_XAPI_URL}user
     maxResponseTime: 5000
     headers:
       - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
