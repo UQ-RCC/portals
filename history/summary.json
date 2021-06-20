@@ -4,19 +4,19 @@
     "url": "$AUTH_RCC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rcc-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 1019,
-    "timeWeek": 948,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 952,
+    "timeDay": 1010,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2021-06-20": 0
+      "2021-06-20": 30
     }
   },
   {
