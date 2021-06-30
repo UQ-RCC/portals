@@ -32,6 +32,24 @@ sites:
       - "accept: application/json"
     assignees:
       - hoangnguyen177
+  - name: Pitschi XAPI1 user
+    method: GET
+    url: $PITSCIH_XAPI1_USER_URL
+    maxResponseTime: 5000
+    headers:
+      - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
+      - "accept: application/json"
+    assignees:
+      - hoangnguyen177
+  - name: Pitschi XAPI2 user
+    method: GET
+    url: $PITSCIH_XAPI2_USER_URL
+    maxResponseTime: 5000
+    headers:
+      - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
+      - "accept: application/json"
+    assignees:
+      - hoangnguyen177
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
