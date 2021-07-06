@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rcc-auth",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 943,
     "timeDay": 841,
     "timeWeek": 912,
@@ -132,9 +132,9 @@
     "url": "$PITSCIH_XAPI2_USER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pitschi-xapi-2-user",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +143,8 @@
     "timeWeek": 914,
     "timeMonth": 914,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   }
 ]
