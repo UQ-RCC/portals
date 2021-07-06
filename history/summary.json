@@ -132,19 +132,19 @@
     "url": "$PITSCIH_XAPI2_USER_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pitschi-xapi-2-user",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 867,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 917,
+    "timeDay": 903,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2021-07-06": 0
+      "2021-07-06": 21
     }
   }
 ]
