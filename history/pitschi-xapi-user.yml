@@ -1,7 +1,7 @@
 url: $PITSCIH_XAPI_USER_URL
-status: down
-code: 404
-responseTime: 220
-lastUpdated: 2021-09-05T22:30:00.773Z
+status: up
+code: 200
+responseTime: 237
+lastUpdated: 2021-09-05T22:41:07.912Z
 startTime: Mon Jun 14 2021 18:55:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
