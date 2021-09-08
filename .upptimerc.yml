@@ -50,6 +50,10 @@ sites:
       - "accept: application/json"
     assignees:
       - hoangnguyen177
+  - name: RCC Packages Repo
+    method: GET
+    url: https://packages.rcc.uq.edu.au/ubuntu/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
