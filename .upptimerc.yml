@@ -54,6 +54,14 @@ sites:
     method: GET
     url: https://packages.rcc.uq.edu.au/ubuntu/
     maxResponseTime: 5000
+  - name: Nimrod Portal
+    method: GET
+    url: https://nimrod.rcc.uq.edu.au/
+    maxResponseTime: 5000
+  - name: Legacy IMB Portal
+    method: GET
+    url: https://imbmicroscopy.rcc.uq.edu.au/
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
