@@ -1,7 +1,7 @@
 url: $IPP_PREF_URL
-status: up
-code: 200
-responseTime: 221
-lastUpdated: 2021-11-03T23:04:45.103Z
+status: down
+code: 404
+responseTime: 227
+lastUpdated: 2021-11-04T13:57:55.543Z
 startTime: Mon Jun 14 2021 20:27:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
