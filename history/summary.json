@@ -53,11 +53,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ipp-pref-version",
     "status": "up",
-    "uptime": "80.11%",
+    "uptime": "80.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.70%",
-    "uptimeYear": "80.11%",
+    "uptimeYear": "80.12%",
     "time": 219,
     "timeDay": 205,
     "timeWeek": 225,
@@ -269,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-30": 45,
+      "2021-11-30": 89,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
@@ -378,9 +378,9 @@
     "url": "https://imbmicroscopy.rcc.uq.edu.au/",
     "icon": "https://favicons.githubusercontent.com/imbmicroscopy.rcc.uq.edu.au",
     "slug": "legacy-imb-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -390,6 +390,7 @@
     "timeMonth": 1484,
     "timeYear": 1485,
     "dailyMinutesDown": {
+      "2021-11-30": 0,
       "2021-09-24": 9
     }
   }
