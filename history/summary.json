@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-04": 479,
+      "2021-12-04": 504,
       "2021-12-03": 1440,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
@@ -365,19 +365,19 @@
     "url": "https://nimrod.rcc.uq.edu.au/",
     "icon": "https://favicons.githubusercontent.com/nimrod.rcc.uq.edu.au",
     "slug": "nimrod-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1450,
-    "timeDay": 1507,
-    "timeWeek": 1445,
-    "timeMonth": 1431,
-    "timeYear": 1450,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1448,
+    "timeDay": 1399,
+    "timeWeek": 1428,
+    "timeMonth": 1427,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2021-12-04": 0
+      "2021-12-04": 25
     }
   },
   {
