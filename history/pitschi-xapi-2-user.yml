@@ -1,7 +1,7 @@
 url: $PITSCIH_XAPI2_USER_URL
-status: down
-code: 502
-responseTime: 928
-lastUpdated: 2022-03-20T19:38:05.552Z
+status: up
+code: 200
+responseTime: 844
+lastUpdated: 2022-03-20T19:47:30.402Z
 startTime: Wed Jun 30 2021 06:23:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
