@@ -34,19 +34,17 @@ sites:
       - hoangnguyen177
   - name: Pitschi XAPI1 user
     method: GET
-    url: $PITSCIH_XAPI1_USER_URL
+    url: $PITSCHI_XAPI1_HELLO
     maxResponseTime: 5000
     headers:
-      - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
       - "accept: application/json"
     assignees:
       - hoangnguyen177
   - name: Pitschi XAPI2 user
     method: GET
-    url: $PITSCIH_XAPI2_USER_URL
+    url: $PITSCHI_XAPI2_HELLO
     maxResponseTime: 5000
     headers:
-      - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
       - "accept: application/json"
     assignees:
       - hoangnguyen177
