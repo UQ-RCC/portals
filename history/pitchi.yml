@@ -1,7 +1,7 @@
 url: $PITSCHI_URL
-status: degraded
+status: down
 code: 502
-responseTime: 18933
-lastUpdated: 2022-10-01T19:00:42.921Z
+responseTime: 3669
+lastUpdated: 2022-10-01T19:24:13.168Z
 startTime: Mon Jun 14 2021 18:55:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
