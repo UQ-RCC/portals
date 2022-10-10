@@ -7,21 +7,25 @@ sites:
     url: $AUTH_RCC_URL
     maxResponseTime: 5000
     assignees:
+      - markendr
       - hoangnguyen177
   - name: IPP
     url: $IPP_URL
     maxResponseTime: 5000
     assignees:
+      - markendr
       - hoangnguyen177
   - name: IPP pref version
     url: $IPP_PREF_URL
     maxResponseTime: 5000
     assignees:
+      - markendr
       - hoangnguyen177
   - name: Pitchi
     url: $PITSCHI_URL
     maxResponseTime: 5000
     assignees:
+      - markendr
       - hoangnguyen177
   - name: Pitschi XAPI user
     method: GET
@@ -31,6 +35,7 @@ sites:
       - "Authorization: Basic $PITSCIH_XAPI_BEARER_TOKEN"
       - "accept: application/json"
     assignees:
+      - markendr
       - hoangnguyen177
   - name: Pitschi XAPI1 user
     method: GET
@@ -39,6 +44,7 @@ sites:
     headers:
       - "accept: application/json"
     assignees:
+      - markendr
       - hoangnguyen177
   - name: Pitschi XAPI2 user
     method: GET
@@ -47,6 +53,7 @@ sites:
     headers:
       - "accept: application/json"
     assignees:
+      - markendr
       - hoangnguyen177
   - name: RCC Packages Repo
     method: GET
