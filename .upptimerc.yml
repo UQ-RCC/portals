@@ -21,7 +21,7 @@ sites:
     assignees:
       - markendr
       - hoangnguyen177
-  - name: Pitchi
+  - name: Pitschi
     url: $PITSCHI_URL
     maxResponseTime: 5000
     assignees:
