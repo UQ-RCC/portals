@@ -55,6 +55,12 @@ sites:
     assignees:
       - markendr
       - hoangnguyen177
+  - name: XNAT
+    url: $XNAT_URL
+    maxResponseTime: 5000
+    assignees:
+      - markendr
+      - aswinnarayanan
   - name: RCC Packages Repo
     method: GET
     url: https://packages.rcc.uq.edu.au/ubuntu/
