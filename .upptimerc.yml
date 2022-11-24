@@ -77,7 +77,6 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uq-rcc.github.io
   baseUrl: /portals
   logoUrl: https://avatars.githubusercontent.com/u/29138696?s=400&u=b56f5d2be37ac991cd6703fc7e9aad0ac4d9cba6&v=4
   name: Upptime for ipp and pitschi
