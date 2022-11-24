@@ -82,7 +82,6 @@ status-website:
   name: Upptime for ipp and pitschi
   introTitle: "**Upptime** for RCC portals."
   introMessage: "" 
-  theme: dark
   navbar:
     - title: Status
       href: /
