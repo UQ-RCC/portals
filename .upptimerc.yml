@@ -8,25 +8,21 @@ sites:
     maxResponseTime: 5000
     assignees:
       - markendr
-      - hoangnguyen177
   - name: IPP
     url: $IPP_URL
     maxResponseTime: 5000
     assignees:
       - markendr
-      - hoangnguyen177
   - name: IPP pref version
     url: $IPP_PREF_URL
     maxResponseTime: 5000
     assignees:
       - markendr
-      - hoangnguyen177
   - name: Pitschi
     url: $PITSCHI_URL
     maxResponseTime: 5000
     assignees:
       - markendr
-      - hoangnguyen177
   - name: Pitschi XAPI user
     method: GET
     url: $PITSCIH_XAPI_USER_URL
@@ -36,7 +32,6 @@ sites:
       - "accept: application/json"
     assignees:
       - markendr
-      - hoangnguyen177
   - name: Pitschi XAPI1 user
     method: GET
     url: $PITSCHI_XAPI1_HELLO
@@ -45,7 +40,6 @@ sites:
       - "accept: application/json"
     assignees:
       - markendr
-      - hoangnguyen177
   - name: Pitschi XAPI2 user
     method: GET
     url: $PITSCHI_XAPI2_HELLO
@@ -54,7 +48,6 @@ sites:
       - "accept: application/json"
     assignees:
       - markendr
-      - hoangnguyen177
   - name: XNAT
     url: $XNAT_URL
     maxResponseTime: 5000
