@@ -1,7 +1,7 @@
 url: $PITSCHI_URL
-status: down
+status: degraded
 code: 404
-responseTime: 918
-lastUpdated: 2022-11-27T13:32:08.483Z
+responseTime: 5308
+lastUpdated: 2022-11-27T13:50:36.558Z
 startTime: Mon Oct 10 2022 06:11:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
