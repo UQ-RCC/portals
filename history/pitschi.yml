@@ -1,7 +1,7 @@
 url: $PITSCHI_URL
-status: down
-code: 502
-responseTime: 3793
-lastUpdated: 2023-04-03T22:43:44.554Z
+status: up
+code: 200
+responseTime: 1204
+lastUpdated: 2023-04-03T22:52:44.403Z
 startTime: Mon Oct 10 2022 06:11:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
