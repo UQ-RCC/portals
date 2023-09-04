@@ -1,7 +1,7 @@
 url: $XNAT_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-04T04:31:07.811Z
+status: up
+code: 200
+responseTime: 1093
+lastUpdated: 2023-09-04T04:39:52.479Z
 startTime: 2022-11-17T07:23:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
