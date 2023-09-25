@@ -1,7 +1,7 @@
 url: $PITSCHI_XAPI2_HELLO
-status: down
-code: 404
-responseTime: 604
-lastUpdated: 2023-09-25T03:11:28.880Z
+status: up
+code: 200
+responseTime: 712
+lastUpdated: 2023-09-25T03:22:57.575Z
 startTime: 2021-06-30T06:23:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
